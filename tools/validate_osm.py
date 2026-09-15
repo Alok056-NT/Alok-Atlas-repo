@@ -31,7 +31,7 @@ for c in cities:
             fid, tags, g = f
             if fid in ids: problems.append('%s %s duplicate id %s' % (c['city'], k, fid))
             ids.add(fid)
-            if not re.match(r'^[nwr]\d+$', fid): problems.append('bad id ' + fid)
+            if not re.match(r'^[nwrm]\d+$', fid): problems.append('bad id ' + fid)
             if isinstance(g[0], (int, float)):
                 kinds[k + ':point'] += 1
                 pts = [g]

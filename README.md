@@ -57,6 +57,16 @@ git add osm-data && git commit -m "Refresh OSM data" && git push
 
 Run all three from one working folder, with `pull_osm.py`, `build_osm.py` and `cities.json` side by side.
 
+### Hand-added places
+
+`tools/manual_features.json` holds places added by hand in the Atlas (the 52 hand-added EPOIs, 16 Sep 2026).
+After building, run `python tools/merge_manual.py osm-data tools/manual_features.json`. It adds each place to
+its city's file as an education record with id `m<n>` and tags `{name, amenity}`. A place is skipped when
+OpenStreetMap already has it: an education feature within 300 m sharing a distinctive name word, the same name,
+or a contained name within 60 m. Places outside every city extent widen the nearest city's extent. Re-running is
+safe (no duplicates). The merge report is in `manual_merge_report.json` next to the script.
+First run: 44 added (Vadodara 38, Bhubaneswar 4, Puri 1, Dehradun 1), 8 already in OSM.
+
 **Then update the Atlas.** It fetches from a pinned commit, not from `main`:
 
 ```js

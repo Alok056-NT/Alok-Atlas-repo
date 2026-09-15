@@ -1,0 +1,366 @@
+[
+ {
+  "key": "education",
+  "name": "SOA University",
+  "lat": 20.2846811409607,
+  "lon": 85.7721299667778,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "SOA Deemed to be",
+  "lat": 20.249117367712305,
+  "lon": 85.80103689981156,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "Silicon Institute of Technology",
+  "lat": 20.3508482867639,
+  "lon": 85.80631453794385,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "Birla Global University",
+  "lat": 20.291486282195752,
+  "lon": 85.74627166441819,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "XIM University",
+  "lat": 20.160771426259352,
+  "lon": 85.76258621016548,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "Kalinga College of Commerce",
+  "lat": 20.2156687151361,
+  "lon": 85.85184006441814,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "UPES Management and Law",
+  "lat": 30.384345401021328,
+  "lon": 77.96841165178284,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "Graphic Era Deemed to be",
+  "lat": 30.26903839239143,
+  "lon": 77.9931230067455,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "GSFC University",
+  "lat": 22.38161730551813,
+  "lon": 73.16006377659323,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "The Maharaja Sayajirao University of Baroda",
+  "lat": 22.3245246,
+  "lon": 73.1817536,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "Navrachana University",
+  "lat": 22.2925456,
+  "lon": 73.1221904,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "Vadodara Institute of Engineering",
+  "lat": 22.4070552,
+  "lon": 73.30699659999999,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "GSFC University",
+  "lat": 22.3857018,
+  "lon": 73.1449707,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "ITM SLS Baroda University",
+  "lat": 22.4500553,
+  "lon": 73.35501769999999,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "Parul University Vadodara, Gujarat",
+  "lat": 22.2876424,
+  "lon": 73.3646937,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "Gati Shakti Vishwavidyalaya",
+  "lat": 22.2818305,
+  "lon": 73.2002169,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "JD Institute of Fashion Technology, Vadodara",
+  "lat": 22.3015893,
+  "lon": 73.1727646,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "Sigma University",
+  "lat": 22.3261453,
+  "lon": 73.2796886,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "Government Medical College Baroda",
+  "lat": 22.3043783,
+  "lon": 73.1918191,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "Faculty of Technology and Engineering (FTE), MSU Baroda",
+  "lat": 22.2983939,
+  "lon": 73.1961151,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "K. J. Institute of Engineering & Technology",
+  "lat": 22.5652855,
+  "lon": 73.24339580000002,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "Maharaja Sayaji Engineering College Vadodara",
+  "lat": 22.2980976,
+  "lon": 73.19700019999999,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "Neotech Campus Vadodara",
+  "lat": 22.403644,
+  "lon": 73.2209173,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "Kala Bhavan Engineering College MSU",
+  "lat": 22.2975616,
+  "lon": 73.197071,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "GMERS Medical College Gotri",
+  "lat": 22.313822,
+  "lon": 73.1488324,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "SBKS Medical College and Research Centre",
+  "lat": 22.2908393,
+  "lon": 73.3229752,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "Baroda Institute of Medical Science, Vadodara",
+  "lat": 22.2947452,
+  "lon": 73.1996735,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "M. K. Amin Arts & Science College & College of Commerce",
+  "lat": 22.2392501,
+  "lon": 73.0892867,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "Smt S G Patel Commerce And Arts College For Girls",
+  "lat": 22.3254441,
+  "lon": 73.1829588,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "The Maharaja Sayajirao University of Baroda (Sayajiganj Campus)",
+  "lat": 22.3101207,
+  "lon": 73.185541,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "M.S. University Faculty of Commerce",
+  "lat": 22.3095285,
+  "lon": 73.18679259999999,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "Faculty of Arts, MS University",
+  "lat": 22.3100003,
+  "lon": 73.18586599999999,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "C. K. Shah Vijapurwala Institute of Management (CKSVIM)",
+  "lat": 22.2854791,
+  "lon": 73.2058062,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "M S Patel Institute, Faculty of Management Studies (FMS-B), MSU",
+  "lat": 22.3233559,
+  "lon": 73.1818129,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "Gujarat Institute Of Hotel Management",
+  "lat": 22.2905143,
+  "lon": 73.1723045,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "Parul Institute of Management & Research",
+  "lat": 22.2891878,
+  "lon": 73.36202,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "Devrash Institute of Management & Technology",
+  "lat": 22.3104112,
+  "lon": 73.1704053,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "KIAHM - The Kalkin Institute of Aviation and Hotel Management",
+  "lat": 22.3089858,
+  "lon": 73.16543399999999,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "Indian Institute of Materials Management",
+  "lat": 22.3092729,
+  "lon": 73.1718702,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "ITM Vocational University Vadodara",
+  "lat": 22.339872,
+  "lon": 73.361463,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "Faculty of Law, MSU Baroda",
+  "lat": 22.3240953,
+  "lon": 73.1813585,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "Balaji College of Law",
+  "lat": 22.247643,
+  "lon": 73.2263764,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "Pioneer Pharmacy College",
+  "lat": 22.3276254,
+  "lon": 73.26379519999999,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "Krishna School of Pharmacy & Research",
+  "lat": 22.1893592,
+  "lon": 73.1884003,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "KPGU, Vadodara (Formerly BITS Edu Campus)",
+  "lat": 22.189147,
+  "lon": 73.1875985,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "ITM School of Pharmacy",
+  "lat": 22.4510714,
+  "lon": 73.3535437,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "Faculty of Pharmacy, MSU Baroda",
+  "lat": 22.2961675,
+  "lon": 73.1970491,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "Polytechnic, MSU Baroda",
+  "lat": 22.3242713,
+  "lon": 73.17810089999999,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "RMS Campus",
+  "lat": 22.3239449,
+  "lon": 73.2779003,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "Butler Polytechnic",
+  "lat": 22.3351792,
+  "lon": 73.1876219,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "S. B. Polytechnic, Savli",
+  "lat": 22.5654877,
+  "lon": 73.2426765,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ },
+ {
+  "key": "education",
+  "name": "Sheth D.M. Polytechnic In Horticulture",
+  "lat": 22.320382,
+  "lon": 73.1708427,
+  "source": "Outlet Atlas MANUAL_BAKED (hand-added EPOIs), 16 Sep 2026"
+ }
+]
